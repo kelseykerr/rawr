@@ -7,12 +7,18 @@
 //
 
 import UIKit
+import SwiftyGif
+
 
 class ViewController: UIViewController {
+    
+    @IBOutlet var gifImage: UIImageView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let gifManager = SwiftyGifManager(memoryLimit:20)
+        let gif = UIImage(gifName: "goat")
+        self.gifImage.setGifImage(gif, manager: gifManager)
     }
 
     override func didReceiveMemoryWarning() {

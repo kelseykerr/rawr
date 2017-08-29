@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-rawr.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-rawrTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-rawrUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyGif.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>014D95E227AA258E8DFF76293CC5890E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>376766D04F797CAAC7B47AB7C55C1314</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7005B99F5F36305974D51F924023FD09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2E177248A57391A36081145D439FF35</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
